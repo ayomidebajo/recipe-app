@@ -22,7 +22,7 @@ class RecipeSearch extends Component {
                  />  
                  <div className="input-group-append">
                     <button 
-                    type="submit" className="input-group-text bg-primary text-white">search
+                    type="submit" required="text"className="input-group-text bg-primary text-white">search
                         <i className="fas fa-search"/>
                     </button>
                     </div> 
